@@ -49,5 +49,5 @@ You will need to install the following Python packages:
 
 ### API Usage
 OpenWeather API
-This project uses the (OpenWeather API)[https://dashboard.openweather.co.uk/] to fetch real-time weather data.
+This project uses the [OpenWeather API](https://dashboard.openweather.co.uk/)to fetch real-time weather data.
 
