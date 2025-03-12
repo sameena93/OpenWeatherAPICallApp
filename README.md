@@ -1,4 +1,4 @@
-# Weather Information App
+# Weather Information App (API)
 
 A simple weather information app that fetches real-time weather details from the OpenWeather API based on the city name entered by the user. The application provides information such as weather description, temperature in Celsius , humidity, visibility, sunrise, and sunset times.
 
