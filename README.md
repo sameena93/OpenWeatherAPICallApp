@@ -15,10 +15,10 @@ Libraries Used:
 * datetime: Used to handle and format date/time information, specifically to convert Unix timestamps to readable times for sunrise and sunset.
 
 
-!(file)["https://github.com/sameena93/OpenWeatherAPICallApp/blob/main/statics/Demo.jpg"]
+![file]("https://github.com/sameena93/OpenWeatherAPICallApp/blob/main/statics/Demo.jpg)
 ## Features
 * Fetches current weather details for any city entered by the user.
-* Displays:
+* Displays
     1. Weather description (e.g., clear sky, broken clouds, etc.)
     2. Temperature in Celsius and Fahrenheit
     3. Feels like temperature in Celsius and Fahrenheit
