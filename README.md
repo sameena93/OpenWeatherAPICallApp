@@ -8,12 +8,12 @@ A simple weather information app that fetches real-time weather details from the
 This project demonstrates the following skills:
 
 ### Programming Languages:
-* Python: The primary language used for this project.
+* ***Python:*** The primary language used for this project.
 Libraries Used:
-* Requests: Used to make HTTP requests to the OpenWeather API and retrieve weather data.
-* os: Used for environment variable management, loading the API key securely.
-* datetime: Used to handle and format date/time information, specifically to convert Unix timestamps to readable times for sunrise and sunset.
-
+* ***Requests:*** Used to make HTTP requests to the OpenWeather API and retrieve weather data.
+* ***os:*** Used for environment variable management, loading the API key securely.
+* ***datetime:*** Used to handle and format date/time information, specifically to convert Unix timestamps to readable times for sunrise and sunset.
+  
 
 ![file](https://github.com/sameena93/OpenWeatherAPICallApp/blob/main/statics/Demo.jpg)
 
