@@ -37,9 +37,17 @@ Before running the project, make sure you have the following installed:
 * Python 3.12
 * pip (Python package manager)
 
+---
+
 ## Dependencies
 You will need to install the following Python packages:
 
 * requests: Used to make HTTP requests to the OpenWeather API.
 * python-dotenv: Loads environment variables from a .env file (for storing API keys).
+
+---
+
+### API Usage
+OpenWeather API
+This project uses the !(OpenWeather API)[https://dashboard.openweather.co.uk/] to fetch real-time weather data.
 
